@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dienthoai_laptop</string>
+    <string name="title_activity_dien_thoai">DienThoaiActivity</string>
+    <string name="menu_gio_hang">Giỏ hàng</string>
+    <string name="title_activity_thongtin">Thongtin</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
