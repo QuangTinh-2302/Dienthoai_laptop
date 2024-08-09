@@ -31,6 +31,7 @@ public class thongtin extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 finish();
+                String string = "Trần Quang Tịnh";
             }
         });
     }
